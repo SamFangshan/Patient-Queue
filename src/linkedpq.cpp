@@ -1,3 +1,4 @@
+//Author: https://github.com/SamFangshan
 #include "linkedpq.h"
 
 /* creat an empty LinkedPQ pointing to null
