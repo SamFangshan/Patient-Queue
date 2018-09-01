@@ -1,3 +1,4 @@
+//Author: https://github.com/SamFangshan
 #ifndef _linkedpq_h
 #define _linkedpq_h
 
